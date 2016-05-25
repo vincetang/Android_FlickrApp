@@ -2,10 +2,13 @@ package com.vince.flickr;
 
 import android.content.Context;
 import android.support.v7.widget.RecyclerView;
+import android.util.Log;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
 import android.widget.ListView;
+
+import com.squareup.picasso.Picasso;
 
 import java.util.List;
 
@@ -17,6 +20,7 @@ public class FlickrRecyclerViewAdapter extends RecyclerView.Adapter<FlickrImageV
 
     private List<Photo> mPhotoList;
     private Context mContext;
+    private final String LOG_TAG = FlickrRecyclerViewAdapter.class.getSimpleName();
 
     public FlickrRecyclerViewAdapter(Context mContext, List<Photo> mPhotoList) {
         this.mPhotoList = mPhotoList;
@@ -54,6 +58,13 @@ public class FlickrRecyclerViewAdapter extends RecyclerView.Adapter<FlickrImageV
     @Override
     public void onBindViewHolder(FlickrImageViewHolder holder, int position) {
 
+        Photo photoItem = mPhotoList.get(position);
+        Log.d(LOG_TAG, "Processing: " + photoItem.getmTitle() + " ===> " + Integer.toString(position));
+        Picasso.with(mContext).load(photoItem.getmImage())
+                .error(R.drawable.placeholder)
+                .placeholder(R.drawable.placeholder)
+                .into(holder.thumbnail);
+        holder.title.setText(photoItem.getmTitle());
     }
 
     /**
