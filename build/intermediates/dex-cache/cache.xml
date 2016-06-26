@@ -33,7 +33,7 @@
         jar="/Users/Vince/Developer/AndroidStudioProjects/Flickr/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
         jumboMode="true"
         revision="23.0.2"
-        sha1="0c7b270db6727b8ae46ab17e01cfc5e4d608d140">
+        sha1="93704e62affa952bef9310dbfecf884bd98c7625">
         <dex dex="/Users/Vince/Developer/AndroidStudioProjects/Flickr/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_14e84e9994847599b8a199095641dee0f60b6cea/classes.dex" />
     </item>
     <item
@@ -54,7 +54,7 @@
         jar="/Users/Vince/Developer/AndroidStudioProjects/Flickr/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
         jumboMode="true"
         revision="23.0.2"
-        sha1="de8003f9c1edd45bc92a9ae1538eb0591e6ba6e0">
+        sha1="53387f392728e1f8d7eac9e45ce71914d26ba89b">
         <dex dex="/Users/Vince/Developer/AndroidStudioProjects/Flickr/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_2e277e46377ced8d09b252fd41189fc874c52dcd/classes.dex" />
     </item>
     <item
