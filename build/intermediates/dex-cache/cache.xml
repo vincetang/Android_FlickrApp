@@ -23,11 +23,25 @@
         <dex dex="/Users/Vince/Developer/AndroidStudioProjects/Flickr/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-23.3.0_8956ea90f5b828259356e76d12c76cf71129cc7c/classes.dex" />
     </item>
     <item
+        jar="/Users/Vince/Developer/AndroidStudioProjects/Flickr/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.3.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="debf30ce0a7560396b6235edef77e447006454c2">
+        <dex dex="/Users/Vince/Developer/AndroidStudioProjects/Flickr/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-recyclerview-v7-23.3.0_29472674b40a072d1dc5acafd8816b5547a6a768/classes.dex" />
+    </item>
+    <item
         jar="/Users/Vince/Developer/AndroidStudioProjects/Flickr/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
         jumboMode="true"
         revision="23.0.2"
-        sha1="8dc91f45a4611702170fd4d9783e803c09af793f">
+        sha1="0c7b270db6727b8ae46ab17e01cfc5e4d608d140">
         <dex dex="/Users/Vince/Developer/AndroidStudioProjects/Flickr/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_14e84e9994847599b8a199095641dee0f60b6cea/classes.dex" />
+    </item>
+    <item
+        jar="/Users/Vince/Developer/AndroidStudioProjects/Flickr/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.3.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="8a034dd16c0dfd75fe86c52c2cd581592acc684a">
+        <dex dex="/Users/Vince/Developer/AndroidStudioProjects/Flickr/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-23.3.0_8ee035d4a1cc50dae88210246adc264b5e463bdc/classes.dex" />
     </item>
     <item
         jar="/Users/Vince/Developer/AndroidStudioProjects/Flickr/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.3.0/jars/classes.jar"
@@ -37,11 +51,25 @@
         <dex dex="/Users/Vince/Developer/AndroidStudioProjects/Flickr/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-23.3.0_86d77648b12b4058b2be732a6fc7e688969ad1e5/classes.dex" />
     </item>
     <item
+        jar="/Users/Vince/Developer/AndroidStudioProjects/Flickr/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="de8003f9c1edd45bc92a9ae1538eb0591e6ba6e0">
+        <dex dex="/Users/Vince/Developer/AndroidStudioProjects/Flickr/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_2e277e46377ced8d09b252fd41189fc874c52dcd/classes.dex" />
+    </item>
+    <item
         jar="/Users/Vince/Developer/AndroidStudioProjects/Flickr/app/build/intermediates/exploded-aar/com.android.support/cardview-v7/23.0.1/jars/classes.jar"
         jumboMode="true"
         revision="23.0.2"
         sha1="39ae02ce40c3ac828abbf780ce0ff5d7a28b7d6a">
         <dex dex="/Users/Vince/Developer/AndroidStudioProjects/Flickr/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-cardview-v7-23.0.1_fdbd41f408341c136ffdbac8b6475a821d24c536/classes.dex" />
+    </item>
+    <item
+        jar="/Users/Vince/Developer/AndroidStudioProjects/Flickr/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.3.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="23be6993826b8fd88bbc8d14928bb3b8960d3d4e">
+        <dex dex="/Users/Vince/Developer/AndroidStudioProjects/Flickr/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-23.3.0_437f220fd27b5fa6ba669d31983f123190aae2dc/classes.dex" />
     </item>
     <item
         jar="/Users/Vince/Developer/AndroidStudioProjects/Flickr/app/build/intermediates/exploded-aar/com.android.support/design/23.3.0/jars/classes.jar"
@@ -56,34 +84,6 @@
         revision="23.0.2"
         sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
         <dex dex="/Users/Vince/Developer/AndroidStudioProjects/Flickr/app/build/intermediates/transforms/dex/debug/folders/1000/2/picasso-2.5.2_1a55a79f98b46bb5079146530bcb1937d7fd687e/classes.dex" />
-    </item>
-    <item
-        jar="/Users/Vince/Developer/AndroidStudioProjects/Flickr/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.3.0/jars/classes.jar"
-        jumboMode="true"
-        revision="23.0.2"
-        sha1="debf30ce0a7560396b6235edef77e447006454c2">
-        <dex dex="/Users/Vince/Developer/AndroidStudioProjects/Flickr/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-recyclerview-v7-23.3.0_29472674b40a072d1dc5acafd8816b5547a6a768/classes.dex" />
-    </item>
-    <item
-        jar="/Users/Vince/Developer/AndroidStudioProjects/Flickr/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.3.0/jars/classes.jar"
-        jumboMode="true"
-        revision="23.0.2"
-        sha1="8a034dd16c0dfd75fe86c52c2cd581592acc684a">
-        <dex dex="/Users/Vince/Developer/AndroidStudioProjects/Flickr/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-23.3.0_8ee035d4a1cc50dae88210246adc264b5e463bdc/classes.dex" />
-    </item>
-    <item
-        jar="/Users/Vince/Developer/AndroidStudioProjects/Flickr/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
-        jumboMode="true"
-        revision="23.0.2"
-        sha1="2ad9ebdf99d409eb569b77ce01b48733e1342e8d">
-        <dex dex="/Users/Vince/Developer/AndroidStudioProjects/Flickr/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_2e277e46377ced8d09b252fd41189fc874c52dcd/classes.dex" />
-    </item>
-    <item
-        jar="/Users/Vince/Developer/AndroidStudioProjects/Flickr/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.3.0/jars/classes.jar"
-        jumboMode="true"
-        revision="23.0.2"
-        sha1="23be6993826b8fd88bbc8d14928bb3b8960d3d4e">
-        <dex dex="/Users/Vince/Developer/AndroidStudioProjects/Flickr/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-23.3.0_437f220fd27b5fa6ba669d31983f123190aae2dc/classes.dex" />
     </item>
 
 </items>

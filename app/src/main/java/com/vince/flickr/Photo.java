@@ -1,9 +1,14 @@
 package com.vince.flickr;
 
+import java.io.Serializable;
+
 /**
  * Created by Vince on 16-05-03.
  */
-public class Photo {
+public class Photo implements Serializable {
+
+    private static final long SERIAL_VERSION_UID = 1L;
+
     private String mTitle;
     private String mAuthor;
     private String mAuthorId;
@@ -18,6 +23,10 @@ public class Photo {
         this.mLink = mLink;
         this.mTags = mTags;
         this.mImage = mImage;
+    }
+
+    public static long getSerialVersionUid() {
+        return SERIAL_VERSION_UID;
     }
 
     public String getmTitle() {
